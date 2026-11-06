@@ -29,3 +29,7 @@ HTML, CSS layouts, responsive design, and project presentation.
 
 The assignment tracker includes live demo and source-code links.
 The BrightPath tutoring demo is not yet linked publicly.
+
+## Live Portfolio
+
+[View my portfolio](https://asokankarish-ctrl.github.io/developer-portfolio/)
