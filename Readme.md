@@ -27,8 +27,8 @@ HTML, CSS layouts, responsive design, and project presentation.
 
 ## Project Status
 
-The assignment tracker includes live demo and source-code links.
-The BrightPath tutoring demo is not yet linked publicly.
+Both the assignment tracker and BrightPath tutoring demo
+include live demo and source-code links.
 
 ## Live Portfolio
 
