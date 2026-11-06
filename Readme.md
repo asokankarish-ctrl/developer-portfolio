@@ -33,4 +33,4 @@ BrightPath Tutoring is presented as a case study.
 
 ## Live Portfolio
 
-[View my portfolio](https://asokankarish-ctrl.github.io/developer-portfolio/)
+([View my updated portfolio](https://asokankarish-ctrl.github.io/developer-portfolio/?v=redesign))
