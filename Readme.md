@@ -15,6 +15,7 @@ showcasing my web development projects and learning progress.
 
 - HTML
 - CSS
+- JavaScript
 
 ## Run Locally
 
@@ -27,8 +28,8 @@ HTML, CSS layouts, responsive design, and project presentation.
 
 ## Project Status
 
-Both the assignment tracker and BrightPath tutoring demo
-include live demo and source-code links.
+The assignment tracker includes live demo and source-code links.
+BrightPath Tutoring is presented as a case study.
 
 ## Live Portfolio
 
